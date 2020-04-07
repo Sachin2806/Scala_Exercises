@@ -162,5 +162,7 @@
 	<classpathentry kind="lib" path="D:/CCA_175/Latest_Jars/scala-library-2.10.6.jar"/>
 	<classpathentry kind="lib" path="D:/CCA_175/Latest_Jars/spark-core_2.11-1.6.0.jar"/>
 	<classpathentry kind="lib" path="D:/CCA_175/Latest_Jars/spark-core_2.11-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/CCA_175/Jars/jar_files2.zip"/>
+	<classpathentry kind="lib" path="D:/CCA_175/Jars/mysql-connector-java-5.1.47.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
